@@ -1,1 +1,8 @@
-# Hospitality-Domain
+Atliq Grands is a hotel chain company, which operates in various cities in India. They have hotels in 4 cities Mumbai, Bangalore, Delhi and Hyderabad and They have been in the industry for around 20 years. Now they have different types of Hotels such as Atliq Seasons, Atliq Exotica, Atliq Bay, Atliq Palace. For example Atliq Palace is a Luxurious Hotel. There are other hotels such as Atliq Seasons which are in business category and they have different types of Rooms like Standard, Elite, Premium, Presidential etc. Now a person can book a Hotel. Via various medium such as Atliq Grands own website book a room from there or also go to third party booking websites such as makeyourtrip, logTrip, tripster and so on.
+Booking happens through variety of mediums that data will go into Atliq Grands booking database from this database, now perform data analysis because Atliq Grants is facing a major challenge from their competitors. They are losing market shares as well as their revenues are declining. So, Atliq Management team has recognized this problem and they have hired IT team of data analyst who can give them data driven insights. So, I hired as a data analyst and draw the insights from the data and help in decision making so that they can increase their revenue now.
+
+• Conducted data analysis for Atliq Grands, a hotel chain operating in major Indian cities.
+• Analysed booking data from multiple sources including their website and third-party platforms.
+• Identified challenges: declining market shares and revenues.
+• Used pandas for extracting actionable insights.
+• Assisted in developing strategies to boost revenue and regain market share in the hospitality industry

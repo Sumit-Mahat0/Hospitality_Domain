@@ -11,11 +11,8 @@ I recently completed a detailed data analysis for Atliq Grands, a well-known hot
 🎯Project Approach:
 
 ➡️Collected and cleaned booking data, guest demographics, and stay details.
-
 ➡️Preprocessed the data, handling missing values and outliers.
-
-➡️Conducted exploratory data analysis (EDA) to discover trends.
-
+➡️Conducted exploratory data analysis (EDA) to discover trends.  
 ➡️Created data visualizations to highlight key findings.
 
 🎯Outcomes:

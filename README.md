@@ -8,30 +8,21 @@ I recently completed a detailed data analysis for Atliq Grands, a well-known hot
 
 💡 Working closely with Atliq's management team, we turned these insights into actionable strategies to improve customer experience, enhance bookings, and drive revenue growth. 📈
 
-🎯Project Approach:
+🎯Project Approach:  
+➡️Collected and cleaned booking data, guest demographics, and stay details.   
+➡️Preprocessed the data, handling missing values and outliers.   
+➡️Conducted exploratory data analysis (EDA) to discover trends.     
+➡️Created data visualizations to highlight key findings.   
 
-➡️Collected and cleaned booking data, guest demographics, and stay details.
-➡️Preprocessed the data, handling missing values and outliers.
-➡️Conducted exploratory data analysis (EDA) to discover trends.  
-➡️Created data visualizations to highlight key findings.
-
-🎯Outcomes:
-
-➡️Identified customer preferences, peak booking seasons, and behavior trends.
-
-➡️Delivered insights to enhance customer satisfaction and streamline operations.
-
-➡️Produced visual reports to guide strategic decisions.
+🎯Outcomes:   
+➡️Identified customer preferences, peak booking seasons, and behavior trends.  
+➡️Delivered insights to enhance customer satisfaction and streamline operations.   
+➡️Produced visual reports to guide strategic decisions.    
 
 
-🎯Key Learnings:
-
-➡️Data Cleaning, Processing, and Transformation
-
-➡️Exploratory Data Analysis
-
-➡️Feature Engineering
-
-➡️Data Visualization
-
-➡️Insight Generation
+🎯Key Learnings:   
+➡️Data Cleaning, Processing, and Transformation             
+➡️Exploratory Data Analysis            
+➡️Feature Engineering             
+➡️Data Visualization          
+➡️Insight Generation            
